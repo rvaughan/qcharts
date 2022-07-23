@@ -1,2 +1,3 @@
-# qcharts
-Quick Charting
+# Q Charts
+
+Quick charting repository.
